@@ -1,0 +1,44 @@
+#MP {
+    background: linear-gradient(90deg, #ec8cbd 0%, #ffe4ee 75%, #94bbe9 100%);
+    text-align: center;
+}
+
+.c {
+    background-color: red;
+}
+
+.btn {
+    font-size: 20px;
+}
+
+#add {
+    background-color: #304FFE;
+    border-style: solid;
+    border-color: #304FFE;
+    border-width: 5px;
+}
+
+#sub {
+    background-color: #00C853;
+    border-style: solid;
+    border-color: #00C853;
+    border-width: 5px;
+}
+
+#multi {
+    background-color: #FF8F00;
+    border-style: solid;
+    border-color: #FF8F00;
+    border-width: 5px;
+}
+
+#div {
+    background-color: #8E24AA;
+    border-style: solid;
+    border-color: #8E24AA;
+    border-width: 5px;
+}
+
+.btn {
+    cursor: pointer;
+}
