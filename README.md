@@ -2,7 +2,7 @@
 
 This is a basic calculator using only addition, subtraction, multiplication and division. It only operates 2 numbers at a time.
 
-                                                           Link to my website: https://gamer9311.github.io/Calculator/
+                                                           https://gamer9311.github.io/Calculator/
                                                             
                                                                   Working on updates.
                                                                   
